@@ -44,5 +44,5 @@ Demo from [googlemaps/android-maps-utils repository](https://github.com/googlema
 <p align="center"><img width="90%" vspace="20" src="https://cloud.githubusercontent.com/assets/1950036/6629704/f57bc6d8-c908-11e4-815a-0d909fe02f99.gif"></p>
 
 
-Follow this link for a good Xamarin Android natiev clustering implemenation
+Follow this link for a good Xamarin Android native clustering implemenation, perhaps exposable to Forms too
 https://www.maximeesprit.com/en/xamarin-android-grouping-google-map-markers-with-clustering/
