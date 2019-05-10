@@ -42,4 +42,7 @@ Version 0.5.1-beta2 is compiled against googlemaps/android-maps-utils@efaceb7915
 Demo from [googlemaps/android-maps-utils repository](https://github.com/googlemaps/android-maps-utils):
 
 <p align="center"><img width="90%" vspace="20" src="https://cloud.githubusercontent.com/assets/1950036/6629704/f57bc6d8-c908-11e4-815a-0d909fe02f99.gif"></p>
- 
+
+
+Follow this link for a good Xamarin Android natiev clustering implemenation
+https://www.maximeesprit.com/en/xamarin-android-grouping-google-map-markers-with-clustering/
